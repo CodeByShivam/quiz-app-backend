@@ -1,0 +1,21 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Maven Wrapper (optional)
+!.mvn/wrapper/maven-wrapper.jar
